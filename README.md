@@ -50,20 +50,6 @@ Replace `<path_to_input_video>` with the path to the input video you want to ana
 https://github.com/prashver/hand-landmark-recognition-using-mediapipe/assets/84378440/120cff33-71df-4975-bbff-b7bf17243ede
 
 
-### 3. Hand Landmark Recognition using Webcam
-
-To perform hand landmark recognition using the webcam, run the following command:
-
-```bash
-python hand_tracking_cam.py
-```
-
-This will start the webcam and perform hand landmark recognition in real-time.
-
-*Demo :-*
-
-https://github.com/prashver/hand-landmark-recognition-using-mediapipe/assets/84378440/8d7d2255-dc9c-4f20-b48d-63dd6550db5b
-
 
 ## How it Works
 
@@ -81,3 +67,4 @@ This project utilizes the following libraries:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
